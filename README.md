@@ -36,8 +36,8 @@
 ![image](https://github.com/user-attachments/assets/430d6e4a-6cae-4e7a-b850-698cf53ab58b)
 
 
-### Name: AHAMED SHINE A
-### Register Number: 212224040017
+### Name: MUKESH.B
+### Register Number: 212223230128
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
